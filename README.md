@@ -7,17 +7,21 @@
 
 ## 職務経歴
 
-### 株式会社mediba (2020/05 ~ )
+### 株式会社 mediba (2020/05 ~ )
 
-- プロダクト開発（Web サービス, toC, エンタメ系）
-  - フロントエンド・バックエンド
+- 自社プロダクト開発（Web サービス, toC, エンタメ系）
+  - フロントエンド (70%)
+    - 新規開発、施策の企画・実施・分析、パフォーマンスチューニング
+  - バックエンド (30%)
+    - API やバッチ処理の開発
+- スクラムマスター
 
 ### 株式会社チームスピリット (2017/09 ~ 2020/04)
 
-- プロダクト開発（Web サービス, toB, 業務系）
+- 自社プロダクト開発（Web サービス, toB, 業務系）
 
-  - フロントエンドとバックエンドの開発を兼任
   - 機能単位で開発の全工程を担当（仕様検討、設計、実装、テスト）
+    - フロントエンド、バックエンド両方含む
 
 ### アクセンチュア株式会社 (2016/07 ~ 2017/08)
 
@@ -30,21 +34,33 @@
 
 #### フロントエンド
 
+- React, Next.js
+
+  - スマートフォン用 Web サービスを複数開発
+
+- TypeScript
+
+  - React + TypeScript の開発経験
+  - 型システムの理解
+
 - JavaScript
+
   - 業務アプリ・管理画面の開発
   - 言語仕様やブラウザの Web API インターフェースの理解
 
-- React
-  - ポートフォリオとしてWebサービスを開発
+- HTML / CSS
+  - デザインカンプを元に実装を行える
 
 #### バックエンド
 
 - TypeScript
+
   - BFF サーバの改修・保守
 
 - Go
+
   - バッチ処理の開発
-  - プライベートで CLI ツールや Webサービスのバックエンドを開発
+  - プライベートで CLI ツールや Web サービスのバックエンドを開発
 
 - Apex (Salesforce)
   - Salesforce をバックエンドの基盤として使用する業務アプリの開発
@@ -52,9 +68,9 @@
 
 ### ポートフォリオ
 
-- [portfolio-go-mysql-docker-webapp](https://github.com/pokuwagata/portfolio-go-mysql-docker-webapp)
+- [portfolio-2020-nextjs-prisma-postgres](https://github.com/pokuwagata/portfolio-2020-nextjs-prisma-postgres)
   - 簡易的なブログサービス
-  - Go, TypeScript, React
+  - Next.js, TypeScript, HTML/CSS
 - [dsr](https://github.com/pokuwagata/dsr)
   - 体調管理用の CLI ツール
   - Go
@@ -71,22 +87,18 @@
 
 - アジャイル
   - [アジャイルソフトウェア開発宣言](http://agilemanifesto.org/iso/ja/manifesto.html)
-- クリーンコード
-  - コードから意図が伝わること
-  - 広く認められた原則に従うこと（SOLID 原則、UNIX 哲学 etc）
+- UNIX 哲学
+  - 小さいものは美しい
+  - 1 つのことをうまくやる
+  - できる限り早くプロトタイプを作る
 
 ## 学歴
 
 - 東北大学工学部情報知能システム総合学科卒 (2012/04 ~ 2016/03)
-
-## 興味
-
-- AtCoder の Beginner Contest に継続的に参加している
-- 型システム
-- チーム開発
 
 ## 個人活動
 
 - blog: [yn2011's blog](http://pokuwagata.hatenablog.com/)
 - twitter: [yn2011](https://twitter.com/yn2011)
 - 発表資料: [Specker Deck](https://speakerdeck.com/yn2011)
+- AtCoder: [yn2011](https://atcoder.jp/users/yn2011)
